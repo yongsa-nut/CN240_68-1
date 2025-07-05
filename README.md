@@ -33,7 +33,7 @@ The course will introduce you to the world of data science. :)
 | 16th October | [Overfitting & Train/Test/Validation](https://docs.google.com/presentation/d/14CI2FYwsANrokcK3swq-FBsvaiyCd-mYU5bJoR3yw-Q/edit?usp=sharing)  | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_In_class_Exercise_8.ipynb)     | [Video]   | [HW6] |         
 | 23th October | [Logistic Regression & Classification](https://docs.google.com/presentation/d/1M_akhAfDnJI-_RUHfAzQ-w8UT2KskCZeW_yfQBfd2gs/edit?usp=sharing)   | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_In_class_Exercise_9.ipynb)      | [Video]  | [HW7]  |    
 | 30th October | [Statistical Inference](https://docs.google.com/presentation/d/1vNecAYIrI33pcJ-L7i24GNt0s-0J-4DCaB0Xqr5wUvM/edit?usp=sharing)     | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_In_class_Exercise_10.ipynb)     | [Video]  | [Project Proposal](https://docs.google.com/document/d/1FSWhuMpDcC6M1EMk8ZjrAYWeVU5cUsQtlSCPsdTyD08/edit?usp=sharing) (Due)  |      
-| 6th November | Quiz + [Data Story telling]  |      | [Video]  |       |       
+| 6th November | Quiz + [Data Story telling](https://docs.google.com/presentation/d/1E7gQW0d9vc486b-fgswmsB0qEqdj-DdByaptXZJxW4Q/edit?usp=sharing)  |      | [Video]  |       |       
 | 13th November | [LLM](https://docs.google.com/presentation/d/1tJXm_4-0f-pIFr710BITvVyH967e-WwyW6Kr8l9zO_A/edit?usp=sharing)                                  | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF251_LLM.ipynb)  | [Video]   |       |   
 | 20th November | Final Project Presentation   |     |     |         |   
 
